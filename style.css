@@ -58,7 +58,7 @@ header {
   min-height: 100%;
   transform: translate(-50%, -50%);
   object-fit: cover;
-  filter: blur(4px);
+  filter: blur(1px);
   z-index: -1;
 }
 .hero-text {
